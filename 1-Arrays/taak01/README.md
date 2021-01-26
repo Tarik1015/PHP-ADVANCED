@@ -66,4 +66,4 @@ Klas: 9G
 Een lijstje van links naar externe bronnen
 
 >[W3 Schools - PHP Associative Arrays](https://www.w3schools.com/php/php_arrays_associative.asp)  
-
+  
